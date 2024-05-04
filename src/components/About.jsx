@@ -2,7 +2,7 @@ import AboutImg from '../assets/about.png'
 export default function About (){
     return <section className='flex flex-col md:flex-row bg-secondary px-5' id='about'>
         <div className='py-5 md:w-1/2'>
-            <img src={AboutImg} />
+            <img src={AboutImg} alt='about' />
         </div>
         <div className='md:w-1/2 flex justify-center'>
             <div className='flex flex-col justify-center text-white'>

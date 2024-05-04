@@ -12,19 +12,19 @@ export default function Projects(){
         <div className="w-full">
         <div className='flex flex-col md:flex-row px-10 gap-5'>
         <div className='relative'>
-        <img className='h-[200px] w-[500px]' src={websiteimg1} />
+        <img className='h-[200px] w-[500px]' src={websiteimg1} alt='website' />
         <div className='project-desc'>
         <p className='text-center px-5 py-5'>A Ecommerce Website Built with MERN STACT</p>
         </div>
         </div>
         <div className='relative'>
-        <img className='h-[200px] w-[500px]' src={websiteimg2} alt="" />
+        <img className='h-[200px] w-[500px]' src={websiteimg2} alt="website 2" />
         <div className='project-desc'>
         <p className='text-center px-5 py-5 '> A Food Ecommerce Website Built with MERN STACT</p>
         </div>
         </div>
         <div className='relative'>
-        <img className='h-[200px] w-[500px]' src={websiteimg3} />
+        <img className='h-[200px] w-[500px]' src={websiteimg3} alt='website 3' />
         <div className='project-desc'>
         <p className='text-center px-5 py-5'>A Basic Blog  Website Built with MERN STACT</p>
 
