@@ -1,7 +1,7 @@
 import { Bars3Icon } from '@heroicons/react/24/solid'
 import { useState } from 'react'
 export default function Header() {
-   const[toggleMenu,setToggleMenu]= useState(false);
+   const[toggleMenu,setToggleMenu]= useState(false); 
 
     return <header className="flex justify-between px-5 py-2 bg-secondary" >
         <a className="font-bold text-black" href='/#' >Javidh Ahammed</a>
