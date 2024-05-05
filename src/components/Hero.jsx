@@ -8,9 +8,9 @@ export default function Hero() {
             </h1>
             <div className='flex py-10'>
                 <a href="https://www.x.com/javidh_ahammed" target='blank' className='pr-5 hover:text-white' ><AiOutlineTwitter size={40} /></a>
-                <a href="https://www.facebook.com/javidh.ahammed?mibextid=ZbWKwL" className='pr-5 hover:text-white'><AiOutlineFacebook size={40} /></a>
-                <a href="https://www.instagram.com/__javierax__/" className='pr-5 hover:text-white'><AiOutlineInstagram size={40} /></a>
-                <a href="https://www.linkedin.com/in/javidh-ahammed-756962228/" className='pr-5 hover:text-white'><AiOutlineLinkedin size={40} /></a>
+                <a href="https://www.facebook.com/javidh.ahammed?mibextid=ZbWKwL" target='blank' className='pr-5 hover:text-white'><AiOutlineFacebook size={40} /></a>
+                <a href="https://www.instagram.com/__javierax__/" target='blank' className='pr-5 hover:text-white'><AiOutlineInstagram size={40} /></a>
+                <a href="https://www.linkedin.com/in/javidh-ahammed-756962228/" target='blank' className='pr-5 hover:text-white'><AiOutlineLinkedin size={40} /></a>
                 {/* <a href="#"className='hover:text-white'><AiOutlineWhatsApp size={40}/></a> */}
             </div>
 
