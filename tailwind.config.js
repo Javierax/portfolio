@@ -12,6 +12,7 @@ module.exports = {
     fontFamily :{
       'hero-font':'Josefin Slab'
     }
+    
   },
   plugins: [],
 }
