@@ -7,7 +7,7 @@ export default function Resume (){
         <div className='md:w-1/2 flex justify-center'>
             <div className='flex flex-col justify-center text-white'>
             <h1 className='text-4xl  border-b-2 border-primary mb-5 w-[140px] font-bold'>Resume </h1>
-            <p className='pb-5 text-justify'>You can view my resume <a className='btn' href="./javidhahammedCV.pdf" download>Download</a></p>
+            <p className='pb-5 text-justify'>You can view my resume <a className='btn' href="./javidh-cv.pdf" download>Download</a></p>
             
             </div>
         </div>
