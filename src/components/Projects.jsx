@@ -1,4 +1,4 @@
-import websiteimg1 from '../assets/ecommerce-websites.jpg';
+import websiteimg1 from '../assets/sarthar.png';
 import websiteimg2 from '../assets/food-ecommerce.jpg';
 import websiteimg3 from '../assets/website-blog.jpg';
 export default function Projects(){
@@ -20,7 +20,7 @@ export default function Projects(){
         <div className='relative'>
         <img className='h-[200px] w-[500px]' src={websiteimg2} alt="website 2" />
         <div className='project-desc'>
-        <p className='text-center px-5 py-5 '> A Food Ecommerce Website Built with MERN STACT</p>
+        <p className='text-center px-5 py-5 '> A Food Ecommerce Website Built with MERN STACK</p>
         </div>
         </div>
         <div className='relative'>
